@@ -1,0 +1,23 @@
+.container{
+    background-color: green;
+    height: 50px;
+}
+.container-fluid{
+    background-color: rgb(182, 213, 26);
+    height: 50px;
+}
+.container-1,{
+    border: 2px solid rgb(255, 89, 0) ;
+}
+.row{
+    border: 2px solid black;
+}
+.col-1, col, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12, .col-xxl-4{
+    border: 1px solid red;
+    background-color: cadetblue;
+}
+.box-1{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(107, 47, 84);
+}
